@@ -1,16 +1,15 @@
-## Hi there 👋
+## PiGoAi
 
-<!--
-**pigoai/Pigoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modular, LEGO-framed personal AI core — Pi-powered, memory-enabled, and future-ready for robotics platforms.
 
-Here are some ideas to get you started:
+### Vision
+PiGoAi is a personal assistant AI housed in a customizable LEGO shell, designed to learn you specifically, dock with different platforms (robotic base, control hub), and be extended with modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Status
+- Repo created
+- Project concept defined
+
+### Next Steps
+- Brain shell prototype CAD
+- Power & Pi integration
+- Basic Python module structure
